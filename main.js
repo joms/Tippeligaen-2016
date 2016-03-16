@@ -2,7 +2,6 @@ var http = require('http');
 var fs = require('fs');
 
 var schedule = require('./schedule');
-var utils = require('./utils');
 var google = require('./google');
 var teams = require('./teams');
 
