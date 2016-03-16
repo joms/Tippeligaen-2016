@@ -29,7 +29,7 @@ In the end this results in either a loss, tie or win result. This can then be ad
 | 10  | Odd | 34 |
 | 11  | Strømsgodset | 32 |
 | 12  | Viking | 24 |
-| 13  | Bodø | 18 |
+| 13  | Bodø/Glimt | 18 |
 | 14  | Tromsø | 12 |
 | 15  | Haugesund | 6 |
 | 16  | Sarpsborg 08 | 0 |
