@@ -6,7 +6,7 @@ The results for Tippeligaen 2016 is based on setting two teams up against each o
 
 # How it works
 
-First I download the data for each match. This is a dataset over time showing which team is the most searched one. By looping through each of the matches I can then take the average popularity and see who's most popular.   
+First I download the data for each match. This is a dataset over time showing which team is the most searched one. By looping through each of the matches, one can then take the average popularity and see who's most popular.   
 In the end this results in either a loss, tie or win result. This can then be added to the table representing the season results.
 
 # Usage
